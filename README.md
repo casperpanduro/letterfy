@@ -1,5 +1,5 @@
 # letterfy.js
-This is plugin that displays a string one letter at a time
+This is a plugin that displays a string one letter at a time
 
 ## The Markup
 First of all, include the "letterfy.min.js" to your project.
