@@ -10,8 +10,8 @@ First of all, include the "letterfy.min.js" to your project.
 <head>
 	<meta charset="UTF-8">
 	<title>letterfy</title>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-	<script src="letterfy.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> <!-- You need jquery -->
+	<script src="letterfy.min.js"></script> <!-- This is the script that does the magic -->
 </head>
 <body>
 	<h1 id="writeText">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</h1> <!-- the selector -->
